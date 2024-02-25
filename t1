@@ -1,0 +1,6 @@
+termux-wake-lock
+killall -9 psiphon-tunnel-
+killall -9 4ghack
+killall -9 psiphon-tunnel-core
+am start --user 0 -n moe.nb4a/io.nekohasekai.sagernet.ui.MainActivity
+4ghack
